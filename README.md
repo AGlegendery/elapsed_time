@@ -13,6 +13,8 @@ print ("test string")
 
 timer_end()
 
+elapsed_time()
+
 # -*- and when you want to print elapsed time you just write | elapsed_time() -*-
 ```
 and done 
