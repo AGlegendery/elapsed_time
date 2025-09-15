@@ -16,4 +16,4 @@ timer_end()
 '''
 and done 
 # output
-time elapsed: 100.09 seconds
+time elapsed: 0.09 seconds
